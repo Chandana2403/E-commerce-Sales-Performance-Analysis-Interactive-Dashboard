@@ -1,2 +1,2 @@
 # E-commerce-Sales-Performance-Analysis-Interactive-Dashboard
-The project spanned the full data lifecycle: data querying and cleaning with SQL and Excel, exploratory data analysis to identify drivers of revenue and profit, and the creation of an interactive dashboard for executive reporting
+This project analyzes e-commerce sales data to uncover insights related to revenue, profit, product performance, and customer purchasing behavior. An interactive Power BI dashboard was developed to help track key business KPIs and support data-driven decision-making.
